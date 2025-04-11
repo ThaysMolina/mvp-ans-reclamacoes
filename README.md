@@ -21,4 +21,9 @@ Este projeto analisa os dados públicos da Agência Nacional de Saúde Suplement
 
 Este projeto utiliza dados públicos da ANS disponíveis em [dados.gov.br](https://dados.gov.br).
 
+## ▶️ Acesse o Notebook
+
+[![Abrir no Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ThaysMolina/mvp-ans-reclamacoes/blob/main/mvp_ans_colab_final.ipynb)
+
+
 

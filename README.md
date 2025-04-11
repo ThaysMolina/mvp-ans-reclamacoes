@@ -23,7 +23,7 @@ Este projeto utiliza dados públicos da ANS disponíveis em [dados.gov.br](https
 
 ## ▶️ Acesse o Notebook
 
-[![Abrir no Google Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+[![Abrir no Google Colab]([https://colab.research.google.com/assets/colab-badge.svg](https://colab.research.google.com/github/ThaysMolina/mvp-ans-reclamacoes/blob/main/mvp_ans_colab_completo%20(1).ipynb))]
 (https://github.com/user-attachments/assets/2218536d-5307-49cd-8399-e0d1bdabc590)
 
 
